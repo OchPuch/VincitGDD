@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "69db8a439dd08706",
+    "type": "split",
+    "children": [
+      {
+        "id": "74f709c98584e328",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "158a3083b464cd73",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f3eeae60b604326",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лор/Пользователи эфира.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56377fcb068deaa0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b51bf9a7d3ceb311",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ba290daf56e721e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a5ea7b0366bf335",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26eba426d63700be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#null",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72a8e895a584b0a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "6444656c5b33c35d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c58f5e48b1e00c9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f1d38aeb4bfc9ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a3145d3e0a3a1b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f0933c20c35357a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4ab0aa6c0e817ec6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "158a3083b464cd73",
+  "lastOpenFiles": [
+    "Лор/Винсент.md",
+    "Utils/Источники/Vincent I guess.png",
+    "Utils/Источники/cowboyBoy.png",
+    "Utils/Источники/colorfulDude.png",
+    "Utils/Источники/DevlogCover.png",
+    "Illustration2.clip",
+    "Геймплей/Это Power Fantasy.md",
+    "Utils/Шаблоны/Управления шаблон.md",
+    "Геймплей/Клавиша стрельбы.md",
+    "Геймплей/Клавиша альтернативной стрельбы.md",
+    "Геймплей/Кластерная пуля.md",
+    "Геймплей/Геймплей гайдлайны.md",
+    "Геймплей/Новый вид пуль или отдельная пушка.md",
+    "Геймплей/Аниме и пафос.md",
+    "Инструкция по ведению документации.md",
+    "Визуал/Визуал гайдлайны.md",
+    "Лор/Lore Timeline.canvas",
+    "Геймплей/Пушки.md",
+    "Лор/Эфирные разломы.md",
+    "Лор/Эфирный цикл.md",
+    "Лор/Эфирный цикл 2.md",
+    "Лор/Эфирный цикл 1.md",
+    "Геймплей/Управление.md",
+    "Геймплей/Удачная пуля.md",
+    "Utils/Шаблоны/Геймплейный шаблон.md",
+    "Геймплей/Револьвер.md",
+    "Utils/Источники/{A139E243-2034-490C-AA66-350A70863949}.png",
+    "Геймплей/Винчестер с гидравлической помпой.md",
+    "Лор/Франс.md",
+    "Геймплей/Пересечение пуль.md",
+    "Геймплей/Взрывная пуля.md",
+    "Геймплей/Перегрузка пуль.md",
+    "Utils/Источники/{2375A358-4570-46E3-8300-EA0B9DF35A52}.png",
+    "Utils/Источники/{9AAFDC16-15D9-463C-91C0-F190642521B3}.png",
+    "Utils/Источники/nemesisTTnoText.png",
+    "Utils/Источники/nemesis.png",
+    "Utils/Источники/godsgun.png",
+    "Utils",
+    "Utils/Источники",
+    "Utils/Шаблоны",
+    "Визуал",
+    "Геймплей",
+    "Лор",
+    "Untitled.canvas",
+    "5 - Шаблоны/Без названия",
+    "Excalidraw",
+    "6 - Второй мозг"
+  ]
+}

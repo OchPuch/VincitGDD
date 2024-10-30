@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"ce9e1fd2b8bdbfef","type":"file","file":"Лор/Ацтеки.md","x":-1240,"y":-173,"width":1166,"height":400},
+		{"id":"abc89648098dd759","type":"file","file":"Лор/Эфирный цикл 1.md","x":-74,"y":-660,"width":2634,"height":400},
+		{"id":"94ac9268db4a57cc","type":"file","file":"Лор/Эфирный цикл 2.md","x":2560,"y":-660,"width":2400,"height":400},
+		{"id":"ef73e6cb0e21ee4a","type":"file","file":"Лор/Эфирный артефакт.md","x":-74,"y":-1586,"width":400,"height":400},
+		{"id":"a25677ff3bdf49bd","x":-71,"y":-1133,"width":400,"height":400,"type":"file","file":"Лор/Эфирные разломы.md"},
+		{"id":"1261e87c7881f6ce","x":2160,"y":-173,"width":2800,"height":400,"type":"file","file":"Лор/Ультра-сектор.md"},
+		{"id":"ff4395d062494645","x":2160,"y":280,"width":2800,"height":400,"type":"file","file":"Лор/ЖД Ультра сектора.md"},
+		{"id":"42f41e82b1e8c41d","type":"file","file":"Лор/Юпитер Найн.md","x":-474,"y":280,"width":400,"height":400},
+		{"id":"73b18e461076b8ba","type":"file","file":"Лор/Искусственные демоны.md","x":-360,"y":760,"width":400,"height":400},
+		{"id":"9dd83d281c375fe1","x":-1680,"y":-173,"width":400,"height":400,"type":"file","file":"Лор/Эфирная оболочка.md"},
+		{"id":"493dca3c85c71051","type":"file","file":"Лор/Эфир.md","x":-1680,"y":-1060,"width":400,"height":400},
+		{"id":"204c281a4371bf4d","type":"file","file":"Лор/Эфирная оболочка.md","x":-1680,"y":-620,"width":400,"height":400},
+		{"id":"b014680409ec850d","type":"text","text":"# База\n\n","x":-1560,"y":-1327,"width":160,"height":94},
+		{"id":"a6d30f4992758079","x":2160,"y":760,"width":400,"height":400,"type":"file","file":"Лор/Организация охотников за головами.md"},
+		{"id":"0cd7fb86fc73d75d","type":"file","file":"Лор/Организация охотников за головами.md","x":4560,"y":760,"width":400,"height":400},
+		{"id":"a5f1fde11b712958","x":-65,"y":-2040,"width":400,"height":400,"type":"file","file":"Лор/Информационные сектора.md"},
+		{"id":"ee548927d14f8665","type":"file","file":"Лор/Эфирный цикл.md","x":-65,"y":-2480,"width":394,"height":387},
+		{"id":"6f600ad994ff48f3","x":-960,"y":1840,"width":5920,"height":400,"type":"file","file":"Лор/Пользователи эфира.md"},
+		{"id":"88d96c201e6df087","x":1600,"y":2320,"width":3360,"height":400,"type":"file","file":"Лор/Сталкеры.md"},
+		{"id":"0ee27f5c8e75f334","type":"file","file":"Лор/Людвиг.md","x":-240,"y":2800,"width":5200,"height":400},
+		{"id":"bd61c8b2a624ca0f","type":"file","file":"Лор/Саймон.md","x":2360,"y":3280,"width":2600,"height":400},
+		{"id":"7aba0587ced5eb93","x":4560,"y":1200,"width":400,"height":400,"type":"file","file":"Лор/Арлекины.md"},
+		{"id":"70646fd7e27663aa","x":2160,"y":3760,"width":400,"height":400,"type":"file","file":"Лор/Франс.md"},
+		{"id":"d56369ed0443db56","type":"file","file":"Лор/Франс.md","x":4560,"y":3760,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"1e6b1a2b617c1b3e","fromNode":"b014680409ec850d","fromSide":"bottom","toNode":"493dca3c85c71051","toSide":"top"},
+		{"id":"96e1f1d305832e65","fromNode":"493dca3c85c71051","fromSide":"bottom","toNode":"204c281a4371bf4d","toSide":"top"}
+	]
+}

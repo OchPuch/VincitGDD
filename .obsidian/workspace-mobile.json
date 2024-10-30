@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "8a2fe44b182f0b4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d05e6c64ffa7689",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32c886e546ae2e7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Механики/Перегрузка пуль.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "691713c9a50f40c0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c6f052b20c53519f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e7fbdaf24afe62ef",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#null",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fec96be89aeac83e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "6ea7ca0bd5f9db0f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c42a704dc3e497c8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "142381005c4184d5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Механики/Перегрузка пуль.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e15e3c6ab94a091b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Механики/Перегрузка пуль.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "267ccf56e5329671",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Механики/Перегрузка пуль.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "32c886e546ae2e7a",
+  "lastOpenFiles": [
+    "Механики/Пересечение пуль.md",
+    "Механики/Перегрузка пуль.md",
+    "Без названия.md",
+    "Пули.md",
+    "Пули револьвера.md",
+    "Штопорная пуля.md",
+    "Враги",
+    "Механики",
+    "2 - Источники/Колыбель для кошки.md",
+    "6 - Второй мозг/Бэтси Росс.md",
+    "6 - Второй мозг/Лечебное голодание.md",
+    "6 - Второй мозг/Классы расширения.md",
+    "2 - Источники/Теоретический минимум по Computer Science.md",
+    "6 - Второй мозг/Геймдизайн.md",
+    "1 - Черновые заметки/07-10-2024.md",
+    "6 - Второй мозг/Остров доктора Моро.md",
+    "Untitled.canvas",
+    "6 - Второй мозг/ECS.md",
+    "6 - Второй мозг/DOTS.md",
+    "6 - Второй мозг/Burst.md",
+    "6 - Второй мозг/Unity Jobs.md",
+    "6 - Второй мозг/Асинхронное программирование.md",
+    "6 - Второй мозг/Signals.md",
+    "6 - Второй мозг/ISP.md",
+    "6 - Второй мозг/Связанность и зацепление в программировании.md",
+    "6 - Второй мозг/yaml.md",
+    "6 - Второй мозг/NavMesh Agent.md",
+    "1 - Черновые заметки/06-10-2024.md",
+    "6 - Второй мозг/Иллинойс.md",
+    "Pasted image 20241005150902.png"
+  ]
+}
